@@ -22,12 +22,7 @@ I’m a Fullstack Software Developer with expertise in JavaScript, React, and No
 <img align="left" width="26px" style="padding-right: 10px;" alt="nodejs icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <br/>
 
-### 📞 Get in Touch
-
-- [LinkedIn](https://www.linkedin.com/in/thebelovednicholaskeyes/) ![LinkedIn](https://img.icons8.com/material-outlined/24/000000/linkedin.png)
-- [Email](mailto:keyes.nicholas2017@gmail.com) ![Email](https://img.icons8.com/material-outlined/24/000000/email.png)
-- [Call Me](tel:+15124567890) ![Phone](https://img.icons8.com/material-outlined/24/000000/phone.png)
-- [Portfolio](https://personalportfolio2.onrender.com/) ![Portfolio](https://img.icons8.com/material-outlined/24/000000/portfolio.png)
+<h3>Get in Touch 📞</h3>
 
 👀 View my portfolio here: [Portfolio](https://nicholaskeyesportfolio.netlify.app/)
 
