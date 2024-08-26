@@ -65,6 +65,5 @@ A fun fact about me is [interesting fact about yourself].
 <h1 style="width: 100%;"></h1>
 <br/>
 
-![Kingkashka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingkashka&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingkashka&layout=compact)](https://github.com/kingkashka/github-readme-stats)
 
