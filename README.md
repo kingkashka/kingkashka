@@ -7,11 +7,9 @@ I’m a Fullstack Software Developer with expertise in JavaScript, React, and No
 <h1 style="width: 100%;"></h1>
 <br/>
 <h3>Languages & Tools 🧰</h3>
-Here are some of the technologies and tools I’m proficient in:
-
-<h1 style="width: 100%;"></h1>
-
+<br/>
 **Languages:**
+<br/>
 <img align="left" width="26px" style="padding-right: 10px;" alt="javascript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" >
 <img align="left" width="26px" style="padding-right: 10px;" alt="python icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="html5 icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
@@ -19,13 +17,14 @@ Here are some of the technologies and tools I’m proficient in:
 
 
 **Frameworks & Libraries:**
+<br/>
 <img align="left" width="26px" style="padding-right: 10px;" alt="react icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="bootstrap icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="reactbootstrap icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="linux icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
-
 **Tools:**
+<br/>
 <img align="left" width="26px" style="padding-right: 10px;" alt="github icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="git icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="mongodb icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
@@ -39,7 +38,7 @@ Here are some of the technologies and tools I’m proficient in:
 - [Call Me](tel:+15124567890) ![Phone](https://img.icons8.com/material-outlined/24/000000/phone.png)
 - [Portfolio](https://personalportfolio2.onrender.com/) ![Portfolio](https://img.icons8.com/material-outlined/24/000000/portfolio.png)
 
-👀 View my portfolio here: [Portfolio](https://personalportfolio2.onrender.com/)
+👀 View my portfolio here: [Portfolio](https://nicholaskeyesportfolio.netlify.app/)
 
 📝 Check my resume out here: [Nicholas's Resume](https://docs.google.com/document/d/1UULFhl4nuR4RNcjxKJlXZs6ToZORQV5zt_r_Cs44GTs/pub)
 
@@ -47,7 +46,7 @@ Here are some of the technologies and tools I’m proficient in:
 
 📫 Reach me via email: [Nicholas Keyes](mailto:keyes.nicholas2017@gmail.com)
 
-📲 Call Me here: (512) 456-7890
+📲 Call Me here: (512) 843-2370
 
 ### 🚀 What I'm Working On
 I’m currently developing a [Project Name] that involves [brief description of the project].
