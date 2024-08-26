@@ -20,6 +20,9 @@ I’m a Fullstack Software Developer with expertise in JavaScript, React, and No
 <img align="left" width="26px" style="padding-right: 10px;" alt="git icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="mongodb icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="nodejs icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+
+<br/>
+<h1 style="width: 100%;"></h1>
 <br/>
 
 <h3>Get in Touch 📞</h3>
@@ -33,6 +36,10 @@ I’m a Fullstack Software Developer with expertise in JavaScript, React, and No
 📫 Reach me via email: [Nicholas Keyes](mailto:keyes.nicholas2017@gmail.com) ![Email](https://img.icons8.com/material-outlined/24/000000/email.png)
 
 📲 Call Me here: (512) 843-2370 ![Phone](https://img.icons8.com/material-outlined/24/000000/phone.png)
+
+<br/>
+<h1 style="width: 100%;"></h1>
+<br/>
 
 ### 🚀 What I'm Working On
 I’m currently developing a [Project Name] that involves [brief description of the project].
@@ -51,6 +58,10 @@ Feel free to ask me about [topic or technology].
 
 ### ⚡ Fun Fact
 A fun fact about me is [interesting fact about yourself].
+
+<br/>
+<h1 style="width: 100%;"></h1>
+<br/>
 
 ![Kingkashka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingkashka&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingkashka&layout=compact)](https://github.com/kingkashka/github-readme-stats)
