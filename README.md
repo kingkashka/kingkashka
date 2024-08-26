@@ -3,7 +3,17 @@
 **kingkashka/kingkashka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 As a Fullstack Software Developer, I've demonstrated proficiency in delivering top-notch results whether working independently or as part of a team. Before transitioning to software development, I served as an air traffic controller for the United States Army, where I oversaw airspace management in dynamic tactical environments, honing my aptitude for critical thinking. This same fervor for problem-solving fuels my enthusiasm for software development. I committed over 1,000 hours to a rigorous coding bootcamp, specializing in JavaScript, React, and Node.js. Now, I'm eager to leverage these skills and passions in a challenging role within a collaborative development team, dedicated to crafting high-quality, user-friendly front-end applications.
 
-Languages: HTML, CSS, JavaScript, Python 
+*** 🧰 Languages and Tools:
+<img width="26px" style="padding-right: 10px;" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" >
+
+<img width="26px" style="padding-right: 10px;" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img width="26px" style="padding-right: 10px;" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img width="26px" style="padding-right: 10px;" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+<img width="26px" style="padding-right: 10px;" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+<img width="26px" style="padding-right: 10px;" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" />
+<img width="26px" style="padding-right: 10px;" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 Frameworks: Node.js, Express.JS
 Libraries: React
 Databases: MongoDB
