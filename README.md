@@ -15,11 +15,6 @@ As a Fullstack Software Developer, I've demonstrated proficiency in delivering t
 <img align="left" width="26px" style="padding-right: 10px;" alt="mongodb icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="nodejs icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 
-Frameworks: Node.js, Express.JS
-Libraries: React
-Databases: MongoDB
-Authorization: Bcrypt
-CI/CD: GIT, GitHub
 👀 View my portfolio here: [Portfolio](https://personalportfolio2.onrender.com/)
 
 📝 Check my resume out here: [Nicholas's Resume](https://docs.google.com/document/d/1UULFhl4nuR4RNcjxKJlXZs6ToZORQV5zt_r_Cs44GTs/pub)
