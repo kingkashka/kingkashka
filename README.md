@@ -1,5 +1,5 @@
 💾 🖥️ Hi there 🖥️ 💾
-<!--
+
 **kingkashka/kingkashka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 As a Fullstack Software Developer, I've demonstrated proficiency in delivering top-notch results whether working independently or as part of a team. Before transitioning to software development, I served as an air traffic controller for the United States Army, where I oversaw airspace management in dynamic tactical environments, honing my aptitude for critical thinking. This same fervor for problem-solving fuels my enthusiasm for software development. I committed over 1,000 hours to a rigorous coding bootcamp, specializing in JavaScript, React, and Node.js. Now, I'm eager to leverage these skills and passions in a challenging role within a collaborative development team, dedicated to crafting high-quality, user-friendly front-end applications.
 
@@ -40,4 +40,4 @@ CI/CD: GIT, GitHub
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
