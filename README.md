@@ -7,24 +7,15 @@ I’m a Fullstack Software Developer with expertise in JavaScript, React, and No
 <h1 style="width: 100%;"></h1>
 <br/>
 <h3>Languages & Tools 🧰</h3>
-<br/>
-**Languages:**
-<br/>
+
 <img align="left" width="26px" style="padding-right: 10px;" alt="javascript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" >
 <img align="left" width="26px" style="padding-right: 10px;" alt="python icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="html5 icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="css icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-
-**Frameworks & Libraries:**
-<br/>
 <img align="left" width="26px" style="padding-right: 10px;" alt="react icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="bootstrap icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="reactbootstrap icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="linux icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-
-**Tools:**
-<br/>
 <img align="left" width="26px" style="padding-right: 10px;" alt="github icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="git icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="mongodb icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
