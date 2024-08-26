@@ -40,6 +40,7 @@ I’m a Fullstack Software Developer with expertise in JavaScript, React, and No
 <h1 style="width: 100%;"></h1>
 <br/>
 
+<!--
 ### 🚀 What I'm Working On
 I’m currently developing a [Project Name] that involves [brief description of the project].
 
@@ -57,6 +58,8 @@ Feel free to ask me about [topic or technology].
 
 ### ⚡ Fun Fact
 A fun fact about me is [interesting fact about yourself].
+-->
+
 
 <br/>
 <h1 style="width: 100%;"></h1>
