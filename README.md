@@ -4,6 +4,7 @@
 As a Fullstack Software Developer, I've demonstrated proficiency in delivering top-notch results whether working independently or as part of a team. Before transitioning to software development, I served as an air traffic controller for the United States Army, where I oversaw airspace management in dynamic tactical environments, honing my aptitude for critical thinking. This same fervor for problem-solving fuels my enthusiasm for software development. I committed over 1,000 hours to a rigorous coding bootcamp, specializing in JavaScript, React, and Node.js. Now, I'm eager to leverage these skills and passions in a challenging role within a collaborative development team, dedicated to crafting high-quality, user-friendly front-end applications.
 <br/>
 <h1 style="width: 100%;"></h1>
+<h1 style="width: 100%;"></h1>
 <br/>
 <h3>🧰 Languages and Tools:</h3>
 <img align="left" width="26px" style="padding-right: 10px;" alt="javascript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" >
@@ -16,7 +17,7 @@ As a Fullstack Software Developer, I've demonstrated proficiency in delivering t
 <img align="left" width="26px" style="padding-right: 10px;" alt="git icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="mongodb icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="nodejs icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-
+<br/>
 👀 View my portfolio here: [Portfolio](https://personalportfolio2.onrender.com/)
 
 📝 Check my resume out here: [Nicholas's Resume](https://docs.google.com/document/d/1UULFhl4nuR4RNcjxKJlXZs6ToZORQV5zt_r_Cs44GTs/pub)
