@@ -9,7 +9,7 @@ I’m a Fullstack Software Developer with expertise in JavaScript, React, and No
 
 <img align="left" width="26px" style="padding-right: 10px;" alt="javascript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" >
 <img align="left" width="26px" style="padding-right: 10px;" alt="python icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
-<img align="left" width="26px" style="padding-right: 10px;" alt="html5 icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img align="left" width="26px" style="padding-right: 10px;" alt="html5 icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="css icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="react icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="bootstrap icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
