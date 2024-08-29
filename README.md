@@ -25,8 +25,8 @@ I’m a Fullstack Software Developer with expertise in JavaScript, React, and No
 <h3>Projects</h3>
 <h1 style="width: 100%;"></h1>
 <br/>
-[Thorah](https://thorah.onrender.com/)
-[keyes&Asscoiates](https://keyesassociates.netlify.app/)
+<!-- [Thorah](https://thorah.onrender.com/)
+[keyes&Asscoiates](https://keyesassociates.netlify.app/) -->
 
 <h1 style="width: 100%;"></h1>
 <h3>Get in Touch 📞</h3>
