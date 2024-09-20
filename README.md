@@ -21,7 +21,7 @@ I’m a Fullstack Software Developer with expertise in JavaScript, React, and No
 <img align="left" width="26px" style="padding-right: 10px;" alt="nodejs icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 
 <br/>
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <h3>Projects</h3>
 <h1 style="width: 100%;"></h1>
 <br/>
