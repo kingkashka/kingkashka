@@ -40,7 +40,7 @@ I’m a Fullstack Software Developer with expertise in JavaScript, React, and No
 
 📫 Reach me via email: [Nicholas Keyes](mailto:keyes.nicholas2017@gmail.com) ![Email](https://img.icons8.com/material-outlined/24/000000/email.png)
 
-📲 Call Me here: (512) 843-2370 ![Phone](https://img.icons8.com/material-outlined/24/000000/phone.png)
+📲 Call Me here: (254) 350-9802 ![Phone](https://img.icons8.com/material-outlined/24/000000/phone.png)
 
 <br/>
 <h1 style="width: 100%;"></h1>
