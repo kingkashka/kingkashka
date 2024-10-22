@@ -7,6 +7,8 @@ I’m a Fullstack Software Developer with expertise in JavaScript, React, and No
 <br/>
 <h3>Languages & Tools 🧰</h3>
 
+
+<img align="left" width="26px" style="padding-right: 10px;" alt="javascript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />        
 <img align="left" width="26px" style="padding-right: 10px;" alt="javascript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" >
 <img align="left" width="26px" style="padding-right: 10px;" alt="python icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 <img align="left" width="26px" style="padding-right: 10px;" alt="sql icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
