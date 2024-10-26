@@ -7,7 +7,7 @@ I’m a Fullstack Software Developer with expertise in JavaScript, React, and No
 <br/>
 <h3>Languages & Tools 🧰</h3>
 
-<img align="left" width="26px" style="padding-right: 10px;" alt="Unity icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" /> 
+<img align="left" width="26px" style="padding-right: 10px;" alt="Unity icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /> 
 <img align="left" width="26px" style="padding-right: 10px;" alt="C# icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />        
 <img align="left" width="26px" style="padding-right: 10px;" alt="javascript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" >
 <img align="left" width="26px" style="padding-right: 10px;" alt="python icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
