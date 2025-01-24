@@ -36,9 +36,9 @@ I’m a Fullstack Software Developer with expertise in JavaScript, React, and No
 <h1 style="width: 100%;"></h1>
 <h3>Get in Touch 📞</h3>
 
-👀 View my portfolio here: [Portfolio](https://nicholaskeyesportfolio.netlify.app/)
+👀 View my portfolio here: [Portfolio](https://nicholas-keyes-portfolio.netlify.app/)
 
-📝 Check my resume out here: [Nicholas's Resume](https://docs.google.com/document/d/1UULFhl4nuR4RNcjxKJlXZs6ToZORQV5zt_r_Cs44GTs/pub) ![Portfolio](https://img.icons8.com/material-outlined/24/000000/portfolio.png)
+📝 Check my resume out here: [Nicholas's Resume](https://docs.google.com/document/d/e/2PACX-1vRYCNvUT5ArxewtRIdeo8v1PdHQwrwGAHod5MP3bFkrw-M1lCpzeS2D4aUQpnndgYitekCokyhNpBpv/pub) ![Portfolio](https://img.icons8.com/material-outlined/24/000000/portfolio.png)
 
 💬 Message me here: [Linkedin](https://www.linkedin.com/in/thebelovednicholaskeyes/) ![LinkedIn](https://img.icons8.com/material-outlined/24/000000/linkedin.png)
 
