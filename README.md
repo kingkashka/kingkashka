@@ -1,6 +1,6 @@
 💾 🖥️ Hi there, I'm Nicholas Keyes!🖥️ 💾
 
-I’m a Fullstack Software Developer with expertise in JavaScript, React, and Node.js. Before diving into software development, I served as an air traffic controller in the US Army, where I developed strong problem-solving and critical-thinking skills. I’m believe in laying a solid foundation for projects to ensure we’re always heading in the right direction and never lose sight of the end goal.
+I’m a Fullstack Software Developer with expertise in JavaScript, React, and Node.js. I also specialize in video game development using Unity, Unreal Engine, C++, and C#. I believe in laying a solid foundation for projects to ensure we’re always heading in the right direction and never lose sight of the end goal.
 
 <br/>
 <h1 style="width: 100%;"></h1>
